@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/GuessThePhrase/GuessThePhrase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GuessThePhrasePart2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NumbersGameApp/NumbersGameApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RecyclerViewApp/RecyclerViewApp" vcs="Git" />
+  </component>
+</project>
